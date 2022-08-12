@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fuel Consuming Calculator</string>
+    <string name="car_cons">El consumo es de: %s km/l</string>
+    <string name="km_recorridos">km recorridos</string>
+    <string name="litros_para_llenar">Litros para llenar</string>
+    <string name="calcular">Calcular</string>
+</resources>
